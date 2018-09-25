@@ -1,0 +1,21 @@
+2018-09-07 10:52:21 INFO  MavenLog4j:20 - welcome to new line
+2018-09-07 10:52:21 TRACE MavenLog4j:21 - trace the message
+2018-09-07 10:52:21 DEBUG MavenLog4j:22 - debug the line
+2018-09-07 10:52:21 INFO  MavenLog4j:23 - testcase is opened
+2018-09-07 10:52:21 WARN  MavenLog4j:24 - it is warn message
+2018-09-07 10:52:21 ERROR MavenLog4j:25 - it is error message
+2018-09-07 10:52:21 FATAL MavenLog4j:26 - high level error message
+2018-09-07 13:52:02 INFO  MavenLog4j:20 - welcome to new line
+2018-09-07 13:52:02 TRACE MavenLog4j:21 - trace the message
+2018-09-07 13:52:02 DEBUG MavenLog4j:22 - debug the line
+2018-09-07 13:52:02 INFO  MavenLog4j:23 - testcase is opened
+2018-09-07 13:52:02 WARN  MavenLog4j:24 - it is warn message
+2018-09-07 13:52:02 ERROR MavenLog4j:25 - it is error message
+2018-09-07 13:52:02 FATAL MavenLog4j:26 - high level error message
+2018-09-07 13:57:42 INFO  MavenLog4j:20 - welcome to new line
+2018-09-07 13:57:42 TRACE MavenLog4j:21 - trace the message
+2018-09-07 13:57:42 DEBUG MavenLog4j:22 - debug the line
+2018-09-07 13:57:42 INFO  MavenLog4j:23 - testcase is opened
+2018-09-07 13:57:42 WARN  MavenLog4j:24 - it is warn message
+2018-09-07 13:57:42 ERROR MavenLog4j:25 - it is error message
+2018-09-07 13:57:42 FATAL MavenLog4j:26 - high level error message

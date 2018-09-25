@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15959" started-at="2018-09-07T08:27:26Z" finished-at="2018-09-07T08:27:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15959" started-at="2018-09-07T08:27:26Z" finished-at="2018-09-07T08:27:42Z">
+      <class name="mavenlog.AllLinks">
+        <test-method status="PASS" signature="LaunchApp()[pri:0, instance:mavenlog.AllLinks@77ec78b9]" name="LaunchApp" is-config="true" duration-ms="9076" started-at="2018-09-07T08:27:26Z" finished-at="2018-09-07T08:27:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApp -->
+        <test-method status="PASS" signature="allLinks()[pri:0, instance:mavenlog.AllLinks@77ec78b9]" name="allLinks" duration-ms="362" started-at="2018-09-07T08:27:35Z" finished-at="2018-09-07T08:27:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allLinks -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:mavenlog.AllLinks@77ec78b9]" name="CloseApp" is-config="true" duration-ms="579" started-at="2018-09-07T08:27:36Z" finished-at="2018-09-07T08:27:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+        <test-method status="PASS" signature="LaunchApp()[pri:0, instance:mavenlog.AllLinks@77ec78b9]" name="LaunchApp" is-config="true" duration-ms="5236" started-at="2018-09-07T08:27:36Z" finished-at="2018-09-07T08:27:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApp -->
+        <test-method status="PASS" signature="logs()[pri:0, instance:mavenlog.AllLinks@77ec78b9]" name="logs" duration-ms="97" started-at="2018-09-07T08:27:42Z" finished-at="2018-09-07T08:27:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logs -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:mavenlog.AllLinks@77ec78b9]" name="CloseApp" is-config="true" duration-ms="584" started-at="2018-09-07T08:27:42Z" finished-at="2018-09-07T08:27:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- mavenlog.AllLinks -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
